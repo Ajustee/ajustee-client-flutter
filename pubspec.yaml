@@ -1,0 +1,17 @@
+name: ajustee_client
+description: Ajustee client. Ajustee – a revolutionary solution that is about to transform the way your team changes, manages and tracks software configurations.
+version: 1.0.1
+repository: https://github.com/Ajustee/ajustee-client-flutter
+homepage: https://ajustee.com
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  http: ^0.12.0+4
+  intl: ^0.16.1
+  web_socket_channel: ^1.1.0
+  meta: ^1.1.8
+
+dev_dependencies:
+  test: ^1.12.0
